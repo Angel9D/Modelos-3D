@@ -1,0 +1,11 @@
+Model Information:
+* title:	Conveyer Belts
+* source:	https://sketchfab.com/3d-models/conveyer-belts-7dba44c77c774e239d42f1a082b28140
+* author:	Adsuitte (https://sketchfab.com/Adsuitte)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Conveyer Belts" (https://sketchfab.com/3d-models/conveyer-belts-7dba44c77c774e239d42f1a082b28140) by Adsuitte (https://sketchfab.com/Adsuitte) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
