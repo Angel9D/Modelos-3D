@@ -1,0 +1,11 @@
+Model Information:
+* title:	Test Factory line für " CAS"
+* source:	https://sketchfab.com/3d-models/test-factory-line-fur-cas-802b0d502610420cb01599ac02cdf314
+* author:	CloudHub (https://sketchfab.com/cloudhub)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Test Factory line für " CAS"" (https://sketchfab.com/3d-models/test-factory-line-fur-cas-802b0d502610420cb01599ac02cdf314) by CloudHub (https://sketchfab.com/cloudhub) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
